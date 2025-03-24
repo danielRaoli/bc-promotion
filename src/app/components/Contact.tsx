@@ -18,7 +18,7 @@ export default function Contact() {
 
         <Link
           className="bg-blue-500 max-w-[400px] text-blue-950 p-4 flex gap-2 justify-center items-center rounded-md mt-8"
-          href={"https://api.whatsapp.com/send?phone=5574998073272&text=Ola"}
+          href={"https://api.whatsapp.com/send?phone=557498046026&text=Ola"}
           target="_blank"
         >
           <FaWhatsapp className="text-lg md:text-3xl" />

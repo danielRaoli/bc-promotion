@@ -22,7 +22,7 @@ export default function Hero() {
           <p className="md:text-xl">COM DESIGN ÍNCRIVEL E ALTA CONVERSÃO ?</p>
           <Link
             className="bg-blue-500 p-4 flex gap-2 items-center rounded-full mt-8"
-            href={"https://api.whatsapp.com/send?phone=5574998073272&text=Ola"}
+            href={"https://api.whatsapp.com/send?phone=557498046026&text=Ola"}
             target="_blank"
           >
             <FaWhatsapp />
